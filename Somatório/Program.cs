@@ -18,3 +18,4 @@ else
 
 }
 Console.WriteLine($"A soma de 1 a {N} é: {soma}");
+Console.ReadKey();
